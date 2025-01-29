@@ -50,7 +50,3 @@ This project demonstrates a simple example of an autonomous robot using DC motor
 3. Power the system and place the robot on a drawn line.
 4. Observe how the robot follows the line and adjusts its direction.
 
-## Author
-**Stoica Sergiu**  
-_Publication Date: January 7, 2025_
-
